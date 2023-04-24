@@ -8,6 +8,5 @@ This strategy states that the element that is inserted last will come out first.
 __Basic Operations on Stack__
 
 In order to make manipulations in a stack, there are certain operations provided to us.
-
-push() to insert an element into the stack
-pop() to remove an element from the stack
+- __push()__ to insert an element into the stack
+- __pop()__ to remove an element from the stack
