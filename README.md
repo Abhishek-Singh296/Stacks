@@ -154,3 +154,6 @@ void disp()
 	}
 }	
 ```
+
+## __Output__
+![Screenshot 2023-04-11 160026](https://user-images.githubusercontent.com/113619312/234078116-b2b39c55-7b35-4a60-a42c-d1566e425464.png)
