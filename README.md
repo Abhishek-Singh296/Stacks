@@ -5,6 +5,10 @@ __LIFO( Last In First Out ):__
 
 This strategy states that the element that is inserted last will come out first. You can take a pile of plates kept on top of each other as a real-life example. The plate which we put last is on the top and since we remove the plate that is at the top, we can say that the plate that was put last comes out first.
 
+![Stack-660x566](https://user-images.githubusercontent.com/113619312/234077102-8ad9a1a0-8c71-4517-944e-acf16cd39a78.png)
+
+---
+
 __Basic Operations on Stack__
 
 In order to make manipulations in a stack, there are certain operations provided to us.
@@ -43,4 +47,9 @@ else
  return value
 end else
 end procedure
+```
+
+---
+
+## __Code__
 ```
