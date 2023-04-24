@@ -10,3 +10,37 @@ __Basic Operations on Stack__
 In order to make manipulations in a stack, there are certain operations provided to us.
 - __push()__ to insert an element into the stack
 - __pop()__ to remove an element from the stack
+
+## __Push__
+Adds an item to the stack. If the stack is full, then it is said to be an Overflow condition.
+
+Algorithm for push:
+```
+begin
+ if stack is full
+    return
+ endif
+else  
+ increment top
+ stack[top] assign value
+end else
+end procedure
+```
+
+
+## __Pop__
+Removes an item from the stack. The items are popped in the reversed order in which they are pushed. If the stack is empty, then it is said to be an Underflow condition.
+
+Algorithm for pop:
+```
+begin
+ if stack is empty
+    return
+ endif
+else
+ store value of stack[top]
+ decrement top
+ return value
+end else
+end procedure
+```
